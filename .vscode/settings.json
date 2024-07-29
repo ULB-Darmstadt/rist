@@ -1,0 +1,9 @@
+{
+  "xml.format.maxLineWidth": 120,
+  "xml.format.enforceQuoteStyle": "preferred",
+  "xml.preferences.quoteStyle": "double",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml",
+    "editor.tabSize": 3
+  }
+}
